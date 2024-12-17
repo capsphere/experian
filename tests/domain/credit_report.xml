@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <report_date>27 May 2024</report_date>
+    <summary>
+        <input_request>
+            <search_name>KHALIL</search_name>
+            <old_ic/>
+            <new_ic>771203-10-1101</new_ic>
+            <product_code>IRISS</product_code>
+            <nationality>MY</nationality>
+            <subscriber_refno>|#||#||#|</subscriber_refno>
+        </input_request>
+        <ccris_individual_info> <!-- Check Json  -->
+            <name>XXXX XXXXX KHAL</name>
+            <old_ic>A1610580</old_ic>
+            <new_ic>771203-10-1101</new_ic>
+            <note>NOTE: The NAME of subject provided by you is NOT CONSISTENT with the information in our databank.</note>
+        </ccris_individual_info>
+        <ccris_individual_addresses> <!-- Check Json  -->
+            <ccris_individual_address> <!-- Check Json  -->
+                <address>31,JALAN SELADANG TAMAN ; BROLEH  83000 BATU PAHAT JOHOR MALAYSIA</address>
+                <date_capture>13 Nov 2014</date_capture>
+                <source_from>Experian</source_from>
+            </ccris_individual_address>
+            <ccris_individual_address><!-- Check Json  -->
+                <address>32,JALAN SELADANG TAMAN ; BROLEH  83000 BATU PAHAT JOHOR</address>
+                <date_capture>13 Nov 2014</date_capture>
+                <source_from>Experian</source_from>
+            </ccris_individual_address>
+            <ccris_individual_address><!-- Check Json  -->
+                <address>PULAU PINANG</address>
+                <date_capture>15 Mar 2021</date_capture>
+                <source_from>BANKING</source_from>
+            </ccris_individual_address>
+        </ccris_individual_addresses>
+        <info_summary>
+            <credit_approval_count>0</credit_approval_count><!-- Check Json - Here came 0 but in json its null thus shows error -->
+            <credit_pending_count>1</credit_pending_count>
+            <special_attention_account_count>0</special_attention_account_count><!-- Check Json  Here came 0 but in json its null thus shows error -->
+            <legal_action_banking_count>0</legal_action_banking_count><!-- Check Json - Here came 0 but in json its null thus shows error -->
+            <existing_facility_count>10</existing_facility_count>
+            <bankruptcy_count>5</bankruptcy_count>
+            <legal_suit_count>0</legal_suit_count><!-- Check Json - Here came 0 but in json its null thus shows error  -->
+            <trade_bureau_count>1</trade_bureau_count>
+            <enquiry_count>0</enquiry_count><!-- Check Json - Here came 0 but in json its null thus shows error -->
+            <interest_count>0</interest_count><!-- Check Json - Here came 0 but in json its null thus shows error -->
+        </info_summary>
+        <i_score>
+            <i_score>0</i_score>
+            <risk_grade>0</risk_grade>
+            <key_factor>  <!-- Check Json  -->
+                <item>ENTITY HAS BANKRUPTCY STATUS AS PER CCRIS OR EXPERIAN RECORD</item>
+            </key_factor>
+            <na_iscore_legend/>
+            <error_message/>
+            <grade_format/>
+            <i_score_risk_grade_format_consumer/>
+        </i_score>
+        <person_company_interests/>
+        <previous_company_interests>
+            <previous_company_interest> <!-- Check JSON-->
+                <type>C</type>
+                <reg_no>109127</reg_no>
+                <old_reg_no>109127-W</old_reg_no>
+                <new_reg_no>198301003571</new_reg_no>
+                <display_id>109127 - W</display_id>
+                <name>M.I.F.ENGINEERING SDN.BHD.</name>
+                <status>DISSOLVED</status>
+                <position>SHAREHOLDER</position>
+                <cessation_date/>
+                <incorporated_date>01 Nov 1983</incorporated_date>
+                <class>W</class>
+            </previous_company_interest>
+        </previous_company_interests>
+    </summary>
+    <banking_info>
+        <ccris_selected_by_you>
+            <entity_name>KHALIL</entity_name><!-- Check Json  -->
+            <entity_id2/><!-- Check Json  -->
+            <entity_id>771203-10-1101</entity_id><!-- Check Json  -->
+            <entity_key>9682904</entity_key><!-- Check Json  -->
+        </ccris_selected_by_you>
+        <ccris_banking_warning/>
+        <ccris_key_statistics>
+            <earlier_aprv_facility>
+                <item>
+                    <Date>01-01-2000</Date>
+                    <Facility>CREDIT CARD</Facility>
+                    <Total>2</Total>
+                </item>
+                <item>
+                    <Date>01-01-2000</Date>
+                    <Facility>OTHER TERM LOANS/FINANCING</Facility>
+                </item>
+            </earlier_aprv_facility>
+            <latest_aprv_facility>
+                <facility_1>
+                    <Date>01-01-2017</Date>
+                    <Facility>OVERDRAFT</Facility>
+                </facility_1>
+                <facility_2>
+                    <Date>01-01-2017</Date>
+                    <Facility>CREDIT CARD</Facility>
+                </facility_2>
+                <facility_3>
+                    <Date>01-01-2017</Date>
+                    <Facility>PURCHASE OF PASSENGER CARS</Facility>
+                </facility_3>
+            </latest_aprv_facility>
+            <secured_facility>
+                <no_of_facility>2</no_of_facility>
+                <total_outstanding_balance>10350</total_outstanding_balance>
+                <total_outstanding_against_ttllimit>8.63</total_outstanding_against_ttllimit>
+                <max_iia_last_12months>32</max_iia_last_12months>
+            </secured_facility>
+            <unsecured_facility>
+                <no_of_facility>7</no_of_facility>
+                <total_outstanding_balance>1419100</total_outstanding_balance>
+                <total_outstanding_against_ttllimit>81.32</total_outstanding_against_ttllimit>
+                <max_iia_last_12months>27</max_iia_last_12months>
+            </unsecured_facility>
+            <average_utilize_months>
+                <cc>12.31</cc>
+                <others>100.00</others><!-- Check Json  -->
+            </average_utilize_months>
+            <utilization_12months_chargecard>
+                <min_utilization/>
+                <max_utilization/>
+            </utilization_12months_chargecard>
+            <no_of_facility_education_loan>0</no_of_facility_education_loan>
+            <no_of_local_lenders>7</no_of_local_lenders>
+            <no_of_foreign_lenders>3</no_of_foreign_lenders>
+        </ccris_key_statistics>
+        <ccris_banking_summary>
+            <summary_credit_report>
+                <approved_count>0</approved_count>
+                <approved_amount>0</approved_amount>
+                <pending_count>1</pending_count>
+                <pending_amount>10000</pending_amount>
+            </summary_credit_report>
+            <summary_liabilities>
+                <borrower>
+                    <outstanding>1429450</outstanding>
+                    <total_limit>1955000</total_limit>
+                    <fec_limit>0</fec_limit>
+                </borrower>
+                <legal_action_taken>N</legal_action_taken>
+                <special_attention_account>N</special_attention_account>
+            </summary_liabilities>
+        </ccris_banking_summary>
+        <ccris_banking_details>
+            <start_year>2023</start_year>
+            <end_year>2024</end_year>
+            <month> <!--Check JSON-->
+                <item>M</item>
+                <item>A</item>
+                <item>M</item>
+                <item>F</item>
+                <item>J</item>
+                <item>D</item>
+                <item>N</item>
+                <item>O</item>
+                <item>S</item>
+                <item>A</item>
+                <item>J</item>
+                <item>J</item>
+            </month>
+            <outstanding_credit>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>7251683</master_id>
+                            <date>01/01/2015</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>20000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>F</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item><!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>10000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>10000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>500</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type>UNIT TRUST</collateral_type>
+                                <credit_position><!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item>1</item>
+                                    <item>3</item>
+                                    <item>3</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>1</item>
+                                    <item>1</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code>23</collateral_type_code>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>7898735</master_id>
+                            <date>01/01/2016</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>1500000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>HSLNFNCE</facility>
+                                <total_outstanding_balance>1230000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>1230000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>5000</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>2</item>
+                                    <item>2</item>
+                                    <item>1</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>9743191</master_id>
+                            <date>01/01/2016</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>10000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>PCPASCAR</facility>
+                                <total_outstanding_balance>85000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>85000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>1000</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>5</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>7901919</master_id>
+                            <date>01/01/2017</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>10000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type/>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code/>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>OVRDRAFT</facility>
+                                <total_outstanding_balance>10000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>10000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>1865906</master_id>
+                            <date>01/01/2017</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>OTH</lender_type>
+                            <limit>10000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>3500</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>3500</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>100</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>4630887</master_id>
+                            <date>01/01/2016</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>100000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>PCPASCAR</facility>
+                                <total_outstanding_balance>85000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>85000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>1500</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>27</item>
+                                    <item>26</item>
+                                    <item>25</item>
+                                    <item>24</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>2813950</master_id>
+                            <date>01/01/2016</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>5000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>F</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>600</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>600</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>6</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>6839448</master_id>
+                            <date>01/01/2017</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>OTH</lender_type>
+                            <limit>100000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>CLEAN</collateral_type>
+                            <financial_group_resident_status>F</financial_group_resident_status>
+                            <collateral_type_code>00</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>C</status>
+                                <restructure_reschedule_date/>
+                                <facility>PCPASCAR</facility>
+                                <total_outstanding_balance>5000</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>5000</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>2</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>2</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>8607291</master_id>
+                            <date>01/01/2000</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>100000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type/>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code/>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>CRDTCARD</facility>
+                                <total_outstanding_balance>0</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>0</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                    <item>0</item>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+                <item>
+                    <master>
+                        <item>
+                            <master_id>4829712</master_id>
+                            <date>01/01/2000</date>
+                            <capacity>OWN</capacity>
+                            <lender_type>CB</lender_type>
+                            <limit>100000</limit>
+                            <legal_status/>
+                            <legal_status_date/>
+                            <collateral_type>UNIT TRUST</collateral_type>
+                            <financial_group_resident_status>M</financial_group_resident_status>
+                            <collateral_type_code>23</collateral_type_code>
+                        </item>
+                    </master>
+                    <sub_account>
+                        <item> <!--Check JSON-->
+                            <item>
+                                <status>O</status>
+                                <restructure_reschedule_date/>
+                                <facility>OTLNFNCE</facility>
+                                <total_outstanding_balance>350</total_outstanding_balance>
+                                <total_outstanding_balance_bnm>350</total_outstanding_balance_bnm>
+                                <balance_updated_date>31/03/2024</balance_updated_date>
+                                <installment_amount>0</installment_amount>
+                                <principle_repayment_term>MTH</principle_repayment_term>
+                                <collateral_type/>
+                                <credit_position> <!--Check JSON-->
+                                    <item/>
+                                    <item/>
+                                    <item>32</item>
+                                    <item>31</item>
+                                    <item>30</item>
+                                    <item>29</item>
+                                    <item>28</item>
+                                    <item>27</item>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                            <item><!--Check JSON-->
+                                <status/>
+                                <restructure_reschedule_date/>
+                                <facility/>
+                                <total_outstanding_balance/>
+                                <total_outstanding_balance_bnm/>
+                                <balance_updated_date/>
+                                <installment_amount/>
+                                <principle_repayment_term/>
+                                <collateral_type/>
+                                <credit_position>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                    <item/>
+                                </credit_position>
+                                <collateral_type_code/>
+                            </item>
+                        </item>
+                    </sub_account>
+                </item>
+            </outstanding_credit>
+            <credit_application>
+                <item>
+                    <application_id>8862795</application_id>
+                    <application_date>01/11/2017</application_date>
+                    <status>P</status>
+                    <application_type/>
+                    <capacity>OWN</capacity>
+                    <lender_type>CB</lender_type>
+                    <facility>CRDTCARD</facility>
+                    <amount_applied>10000</amount_applied>
+                    <financial_group_resident_status>M</financial_group_resident_status>
+                    <property_status/>
+                    <property_address1/>
+                    <property_address2/>
+                    <property_address3/>
+                    <property_address4/>
+                    <property_city/>
+                    <property_postcode/>
+                    <property_state_code/>
+                    <property_state_desc/>
+                    <property_country_code/>
+                    <property_country_desc/>
+                    <property_long_address/>
+                </item>
+            </credit_application>
+            <special_attention_account/>
+            <facilities_remark>
+                <item>
+                    <code>OVRDRAFT</code>
+                    <desc>OVERDRAFT</desc>
+                </item>
+                <item>
+                    <code>HSLNFNCE</code>
+                    <desc>HOUSING LOANS/FINANCING</desc>
+                </item>
+                <item>
+                    <code>PCPASCAR</code>
+                    <desc>PURCHASE OF PASSENGER CARS</desc>
+                </item>
+                <item>
+                    <code>OTLNFNCE</code>
+                    <desc>OTHER TERM LOANS/FINANCING</desc>
+                </item>
+                <item>
+                    <code>CRDTCARD</code>
+                    <desc>CREDIT CARD</desc>
+                </item>
+            </facilities_remark>
+            <status_remark>
+                <item>
+                    <code>C</code>
+                    <desc>Rescheduled credit facility</desc>
+                </item>
+                <item>
+                    <code>O</code>
+                    <desc>Outstanding</desc>
+                </item>
+                <item>
+                    <code>P</code>
+                    <desc>Pending Decision by FI</desc>
+                </item>
+            </status_remark>
+            <legal_remark/>
+        </ccris_banking_details>
+    </banking_info>
+    <litigation_info>
+        <legal_suit_by_regno/>
+        <legal_suit_proclamation_by_regno/>
+        <others_known_legal_suit/>
+        <legal_suit_by_plaintiff/> <!--Check JSON-->
+        <person_bankruptcy>
+            <remark>Remark: The Bankruptcy adjudication order status may have been discharged. Please conduct Official Assignee Search to confirm the current status.</remark>
+            <case> <!--Check JSON-->
+                <item>
+                    <status_group>OTH</status_group>
+                    <defendant_name>  XXX</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>771203-10-1101</new_ic>
+                    <case_no>29-NCC-210-2023 HIGH COURT KUALA LUMPUR</case_no>
+                    <notice_date>06 Mar 2023</notice_date>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <amountclaimed>NA</amountclaimed>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name>  XXXX XXXXX KHALIL</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>771203-10-1101</new_ic>
+                    <case_no>29-NCC-210-2023 HIGH COURT KUALA LUMPUR</case_no>
+                    <notice_date>06 Mar 2023</notice_date>
+                    <petition_date>06 Mar 2023</petition_date>
+                    <hearing_date>06 Mar 2023</hearing_date>
+                    <adjudication_order_date>06 Mar 2023</adjudication_order_date>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <amountclaimed>NA</amountclaimed>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name>  XXXX</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>771203-10-1101</new_ic>
+                    <case_no>29-NCC-210-2023 HIGH COURT KUALA LUMPUR</case_no>
+                    <notice_date>06 Mar 2023</notice_date>
+                    <petition_date>06 Mar 2023</petition_date>
+                    <hearing_date>21 Mar 2023</hearing_date>
+                    <adjudication_order_date>06 Mar 2023</adjudication_order_date>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <amountclaimed>NA</amountclaimed>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name>  XXXX XXXXX KHALIL</defendant_name>
+                    <old_ic>NA</old_ic>
+                    <new_ic>771203-10-1101</new_ic>
+                    <defendant_address>159  JALAN T/D 15 TAMAN DESA , 71700, MANTIN, NEGERI SEMBILAN.</defendant_address>
+                    <case_no>29-NCC-4532-08-2014 HIGH COURT KUALA LUMPUR</case_no>
+                    <solicitor_code>4692</solicitor_code>
+                    <solicitor>AZHAR &amp; WONG</solicitor>
+                    <solicitor_address>PENTHOUSE, HERITAGE HOUSE, 33 JLN YAP AH SHAK, LEVEL 16 50300 KUALA LUMPUR</solicitor_address>
+                    <solicitor_tel>03-26986800</solicitor_tel>
+                    <solicitor_fax>03-26983740</solicitor_fax>
+                    <solicitor_email>azharw@azharwong.com.my</solicitor_email>
+                    <solicitor_ref>RL/AMFB-LIT/6935-446/ADLIAH/ZH</solicitor_ref>
+                    <notice_date>29 Aug 2016</notice_date>
+                    <notice_ref>NEW STRAITS TIMES 10 Nov 2016</notice_ref>
+                    <adjudication_order_date>12 Nov 2017</adjudication_order_date>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <amountclaimed>NA</amountclaimed>
+                </item>
+                <item>
+                    <status_group>AOD</status_group>
+                    <defendant_name>  XXXX XXXXX KHALIL</defendant_name>
+                    <old_ic>A1610580</old_ic>
+                    <new_ic>771203-10-1101</new_ic>
+                    <defendant_address>29 JLN F  KG PANDAN , 55100, KUALA LUMPUR.</defendant_address>
+                    <case_no>29-NCC-8982-2016 HIGH COURT SELANGOR</case_no>
+                    <!--Check JSON extra "notice_date" added there-->
+                    <solicitor_code>146</solicitor_code>
+                    <solicitor>YONG &amp; RAKAN-RAKAN</solicitor>
+                    <solicitor_address>NO. 12-1 (1st FLOOR)  JALAN TIARA 2D/KU1  BANDAR BARU KLANG 41150 KELANG, SELANGOR</solicitor_address>
+                    <solicitor_tel>03-33427207/9</solicitor_tel>
+                    <solicitor_fax>03-33414202</solicitor_fax>
+                    <solicitor_email>yrr@tm.net.my</solicitor_email>
+                    <solicitor_ref>MBB(LMCKL)AM(BN)/22828/2008/G(3)GTL/NURUL </solicitor_ref>
+                    <notice_ref>BERITA HARIAN 18 May 2011</notice_ref>
+                    <adjudication_order_date>12 Nov 2017</adjudication_order_date>
+                    <adjudication_order_ref>JABATAN INSOLVENSI MALAYSIA (JIM)</adjudication_order_ref>
+                    <case_settled>N</case_settled>
+                    <case_withdrawn>N</case_withdrawn>
+                    <amountclaimed>NA</amountclaimed>
+                </item>
+            </case>
+        </person_bankruptcy>
+    </litigation_info>
+    <trade_bureau>
+        <trade_bureau_entity_details>
+            <tb_credit_reference> <!--Check JSON-->
+                <item>
+                    <subject>XXXXX</subject>
+                    <new_ic>740324-18-3631</new_ic>
+                    <creditor_name>TABUNG KUMPULAN WANG BIASISWA NEGERI SELANGOR</creditor_name>
+                    <creditor_telno>03-55447634</creditor_telno>
+                    <ref_no>40656/785</ref_no>
+                    <status>NOD</status>
+                    <debt_type>LOAN EXTENDED</debt_type>
+                    <payment_aging>OVER 180 DAYS</payment_aging>
+                    <remark>DEFAULTED / ACCOUNT TERMINATED</remark>
+                    <status_date>16  NOV  2011</status_date>
+                    <amount>2,500.00</amount>
+                    <industry>EDUCATION</industry>
+                    <guarantor_details>
+                        <guarantor_detail> <!-- Check JSON-->
+                            <guarantor_ic>590828-10-6079</guarantor_ic>
+                            <guarantor_name>KOAKEELAN A/L V KARUPPIAH</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>771203-10-1101</guarantor_ic>
+                            <guarantor_name>XXXX XXXXX KHAL</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>660607-01-3980</guarantor_ic>
+                            <guarantor_name>XXXXXXX XXNTI ABAS</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>855037</guarantor_ic>
+                            <guarantor_name>KAROMECH SDN. BHD.</guarantor_name>
+                        </guarantor_detail>
+                        <guarantor_detail>
+                            <guarantor_ic>670508-08-5352</guarantor_ic>
+                            <guarantor_name>SXXXXX BXXXX RXXXX</guarantor_name>
+                        </guarantor_detail>
+                    </guarantor_details>
+                </item>
+            </tb_credit_reference>
+            <tb_payment>
+                <payment_profile/>
+                <payment_trend>
+                    <trend/> <!-- Check JSON-->
+                </payment_trend>
+                <p2p_fintech>
+                    <start_year>2023</start_year>
+                    <end_year>2024</end_year>
+                    <month> <!-- Check JSON-->
+                        <item>M</item>
+                        <item>A</item>
+                        <item>M</item>
+                        <item>F</item>
+                        <item>J</item>
+                        <item>D</item>
+                        <item>N</item>
+                        <item>O</item>
+                        <item>S</item>
+                        <item>A</item>
+                        <item>J</item>
+                        <item>J</item>
+                    </month>
+                    <count_fintect>0</count_fintect>
+                    <show_note_fintect>0</show_note_fintect>
+                    <legend>
+                        <capacity/>
+                        <acc_status/>
+                        <lender_type/>
+                        <facility/>
+                        <repayment_term/>
+                        <collateral_type/>
+                        <status/>
+                        <sub_code/>
+                    </legend>
+                    <details/>
+                </p2p_fintech>
+                <show_note>yes</show_note>
+                <show_note_fintect>no</show_note_fintect>
+            </tb_payment>
+        </trade_bureau_entity_details>
+    </trade_bureau>
+    <aml_sanction>
+        <aml_sanction_list_individual> <!-- Check JSON-->
+            <KDN>02 Sep 2019</KDN>
+            <UN>02 Sep 2019</UN>
+            <amlSanctionList> <!-- Check JSON-->
+                <item>
+                    <No>1</No>
+                    <ICPP>771203-10-1101</ICPP>
+                    <IndividualName>XXXX XXXXX KHALIL</IndividualName>
+                    <TraceCase>KDN</TraceCase>
+                    <CompanyName/>
+                    <LastUpdated>02 Sep 2019</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+                <item>
+                    <No>2</No>
+                    <ICPP>771203-10-1101</ICPP>
+                    <IndividualName>XXXX XXXXX KHALIL</IndividualName>
+                    <TraceCase>UN</TraceCase>
+                    <CompanyName/>
+                    <LastUpdated>02 Sep 2019</LastUpdated>
+                    <NameMatched>MATCHED</NameMatched>
+                </item>
+            </amlSanctionList>
+        </aml_sanction_list_individual>
+    </aml_sanction>
+    <enquiry>
+        <previous_enquiry>
+            <finance>
+                <item>
+                    <year>2024</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2023</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2022</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+            </finance>
+            <commercial>
+                <item>
+                    <year>2024</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2023</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+                <item>
+                    <year>2022</year>
+                    <yearly_count>0</yearly_count>
+                    <month>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                        <item>0</item>
+                    </month>
+                </item>
+            </commercial>
+        </previous_enquiry>
+    </enquiry>
+    <legend_gen2>
+        <na_iscore_legend/>
+    </legend_gen2>
+    <end>
+        <subscriber_name>CAPSSVB2B</subscriber_name>
+        <username>CAPSSVB2B</username>
+        <order_date>2024-05-27</order_date>
+        <order_time>12:47:10</order_time>
+        <userid>CAPSSVB2B1</userid>
+        <order_id>119402566</order_id>
+    </end>
+</xml>

@@ -1,0 +1,912 @@
+{
+    "report_date": "27 May 2024",
+    "summary": {
+        "input_request": {
+            "search_name": "KHALIL",
+            "search_id": null,
+            "search_id_2": null,
+            "old_ic": null,
+            "new_ic": "771203-10-1101",
+            "product_code": "IRISS",
+            "nationality": "MY",
+            "subscriber_refno": "|#||#||#|"
+        },
+        "ccris_info": {
+            "name": "XXXX XXXXX KHAL",
+            "id": null,
+            "old_reg_no": null,
+            "new_reg_no": null,
+            "old_ic": "A1610580",
+            "new_ic": "771203-10-1101",
+            "note": "NOTE: The NAME of subject provided by you is NOT CONSISTENT with the information in our databank."
+        },
+        "ccris_addresses": [
+            {
+                "address": "31,JALAN SELADANG TAMAN ; BROLEH  83000 BATU PAHAT JOHOR MALAYSIA",
+                "date_capture": "13 Nov 2014",
+                "source_from": "Experian"
+            },
+            {
+                "address": "32,JALAN SELADANG TAMAN ; BROLEH  83000 BATU PAHAT JOHOR",
+                "date_capture": "13 Nov 2014",
+                "source_from": "Experian"
+            },
+            {
+                "address": "PULAU PINANG",
+                "date_capture": "15 Mar 2021",
+                "source_from": "BANKING"
+            }
+        ],
+        "info_summary": {
+            "credit_approval_count": null,
+            "credit_pending_count": 1,
+            "special_attention_account_count": null,
+            "legal_action_banking_count": null,
+            "existing_facility_count": 10,
+            "winding_up_count": null,
+            "bankruptcy_count": 5,
+            "legal_suit_count": null,
+            "trade_bureau_count": 1,
+            "enquiry_count": null,
+            "interest_count": null
+        },
+        "i_score": {
+            "i_score": 0,
+            "risk_grade": 0,
+            "key_factors": [
+                "ENTITY HAS BANKRUPTCY STATUS AS PER CCRIS OR EXPERIAN RECORD"
+            ],
+            "na_iscore_legend": "",
+            "error_message": "",
+            "grade_format": "",
+            "i_score_risk_grade_format_consumer": ""
+        },
+        "previous_company_interests": [
+            {
+                "type": "C",
+                "reg_no": "109127",
+                "old_reg_no": "109127-W",
+                "new_reg_no": "198301003571",
+                "display_id": "109127 - W",
+                "name": "M.I.F.ENGINEERING SDN.BHD.",
+                "status": "DISSOLVED",
+                "position": "SHAREHOLDER",
+                "cessation_date": "",
+                "incorporated_date": "01 Nov 1983",
+                "class": "W"
+            }
+        ]
+    },
+    "corporate_profile": null,
+    "banking_info": {
+        "ccris_banking_warning": "",
+        "ccris_selected_by_you": {
+            "entityName": "KHALIL",
+            "entityId2": "",
+            "entityId": "771203-10-1101",
+            "entityKey": "9682904"
+        },
+        "ccris_key_statistics": {
+            "earlier_aprv_facility": [
+                {
+                    "Date": "01-01-2000",
+                    "Facility": "CREDIT CARD",
+                    "Total": 2
+                },
+                {
+                    "Date": "01-01-2000",
+                    "Facility": "OTHER TERM LOANS\/FINANCING",
+                    "Total": null
+                }
+            ],
+            "latest_aprv_facility": {
+                "facility_1": {
+                    "Date": "01-01-2017",
+                    "Facility": "OVERDRAFT"
+                },
+                "facility_2": {
+                    "Date": "01-01-2017",
+                    "Facility": "CREDIT CARD"
+                },
+                "facility_3": {
+                    "Date": "01-01-2017",
+                    "Facility": "PURCHASE OF PASSENGER CARS"
+                }
+            },
+            "secured_facility": {
+                "no_of_facility": 2,
+                "total_outstanding_balance": 10350,
+                "total_outstanding_against_ttllimit": 8.63,
+                "max_iia_last_12months": 32
+            },
+            "unsecured_facility": {
+                "no_of_facility": 7,
+                "total_outstanding_balance": 1419100,
+                "total_outstanding_against_ttllimit": 81.32,
+                "max_iia_last_12months": 27
+            },
+            "average_utilize_months": {
+                "cc": 12.31,
+                "others": 100
+            },
+            "utilization_12months_chargecard": {
+                "min_utilization": "",
+                "max_utilization": ""
+            },
+            "no_of_facility_education_loan": 0,
+            "no_of_local_lenders": 7,
+            "no_of_foreign_lenders": 3
+        },
+        "ccris_banking_summary": {
+            "summary_credit_report": {
+                "approved_count": 0,
+                "approved_amount": 0,
+                "pending_count": 1,
+                "pending_amount": 10000
+            },
+            "summary_liabilities": {
+                "borrower": {
+                    "outstanding": 1429450,
+                    "total_limit": 1955000,
+                    "fec_limit": 0
+                },
+                "legal_action_taken": "N",
+                "special_attention_account": "N"
+            }
+        },
+        "ccris_banking_details": {
+            "start_year": 2023,
+            "end_year": 2024,
+            "months": [
+                "M",
+                "A",
+                "M",
+                "F",
+                "J",
+                "D",
+                "N",
+                "O",
+                "S",
+                "A",
+                "J",
+                "J"
+            ],
+            "outstanding_credit": [
+                {
+                    "master": [
+                        {
+                            "master_id": 7251683,
+                            "date": "01\/01\/2015",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 20000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "F",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "CRDTCARD",
+                            "total_outstanding_balance": 10000,
+                            "total_outstanding_balance_bnm": 10000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 500,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "UNIT TRUST",
+                            "credit_position": [],
+                            "collateral_type_code": "23"
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 7898735,
+                            "date": "01\/01\/2016",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 1500000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "HSLNFNCE",
+                            "total_outstanding_balance": 1230000,
+                            "total_outstanding_balance_bnm": 1230000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 5000,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 9743191,
+                            "date": "01\/01\/2016",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 10000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "PCPASCAR",
+                            "total_outstanding_balance": 85000,
+                            "total_outstanding_balance_bnm": 85000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 1000,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 7901919,
+                            "date": "01\/01\/2017",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 10000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": ""
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "OVRDRAFT",
+                            "total_outstanding_balance": 10000,
+                            "total_outstanding_balance_bnm": 10000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 1865906,
+                            "date": "01\/01\/2017",
+                            "capacity": "OWN",
+                            "lender_type": "OTH",
+                            "limit": 10000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "CRDTCARD",
+                            "total_outstanding_balance": 3500,
+                            "total_outstanding_balance_bnm": 3500,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 100,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 4630887,
+                            "date": "01\/01\/2016",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 100000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "PCPASCAR",
+                            "total_outstanding_balance": 85000,
+                            "total_outstanding_balance_bnm": 85000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 1500,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 2813950,
+                            "date": "01\/01\/2016",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 5000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "F",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "CRDTCARD",
+                            "total_outstanding_balance": 600,
+                            "total_outstanding_balance_bnm": 600,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 6839448,
+                            "date": "01\/01\/2017",
+                            "capacity": "OWN",
+                            "lender_type": "OTH",
+                            "limit": 100000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "CLEAN",
+                            "financial_group_resident_status": "F",
+                            "collateral_type_code": "00"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "C",
+                            "restructure_reschedule_date": "",
+                            "facility": "PCPASCAR",
+                            "total_outstanding_balance": 5000,
+                            "total_outstanding_balance_bnm": 5000,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 8607291,
+                            "date": "01\/01\/2000",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 100000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": ""
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "CRDTCARD",
+                            "total_outstanding_balance": 0,
+                            "total_outstanding_balance_bnm": 0,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                },
+                {
+                    "master": [
+                        {
+                            "master_id": 4829712,
+                            "date": "01\/01\/2000",
+                            "capacity": "OWN",
+                            "lender_type": "CB",
+                            "limit": 100000,
+                            "legal_status": "",
+                            "legal_status_date": "",
+                            "collateral_type": "UNIT TRUST",
+                            "financial_group_resident_status": "M",
+                            "collateral_type_code": "23"
+                        }
+                    ],
+                    "sub_account": [
+                        {
+                            "status": "O",
+                            "restructure_reschedule_date": "",
+                            "facility": "OTLNFNCE",
+                            "total_outstanding_balance": 350,
+                            "total_outstanding_balance_bnm": 350,
+                            "balance_updated_date": "31\/03\/2024",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "MTH",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        },
+                        {
+                            "status": "",
+                            "restructure_reschedule_date": "",
+                            "facility": "",
+                            "total_outstanding_balance": 0,
+                            "total_outstanding_balance_bnm": 0,
+                            "balance_updated_date": "",
+                            "installment_amount": 0,
+                            "principle_repayment_term": "",
+                            "collateral_type": "",
+                            "credit_position": [],
+                            "collateral_type_code": ""
+                        }
+                    ]
+                }
+            ],
+            "credit_application": [
+                {
+                    "application_id": 8862795,
+                    "application_date": "01\/11\/2017",
+                    "status": "P",
+                    "application_type": "",
+                    "capacity": "OWN",
+                    "lender_type": "CB",
+                    "facility": "CRDTCARD",
+                    "amount_applied": 10000,
+                    "financial_group_resident_status": "M"
+                }
+            ],
+            "facilities_remark": [
+                {
+                    "code": "OVRDRAFT",
+                    "desc": "OVERDRAFT"
+                },
+                {
+                    "code": "HSLNFNCE",
+                    "desc": "HOUSING LOANS\/FINANCING"
+                },
+                {
+                    "code": "PCPASCAR",
+                    "desc": "PURCHASE OF PASSENGER CARS"
+                },
+                {
+                    "code": "OTLNFNCE",
+                    "desc": "OTHER TERM LOANS\/FINANCING"
+                },
+                {
+                    "code": "CRDTCARD",
+                    "desc": "CREDIT CARD"
+                }
+            ],
+            "status_remark": [
+                {
+                    "code": "C",
+                    "desc": "Rescheduled credit facility"
+                },
+                {
+                    "code": "O",
+                    "desc": "Outstanding"
+                },
+                {
+                    "code": "P",
+                    "desc": "Pending Decision by FI"
+                }
+            ],
+            "special_attention_account": "",
+            "legal_remark": ""
+        }
+    },
+    "litigation_info": {
+        "legal_suit_by_regno": "",
+        "legal_suit_proclamation_by_regno": "",
+        "others_known_legal_suit": "",
+        "others_known_legal_suit_by_plaintiff": [],
+        "legal_suit_by_plaintiff": "",
+        "windup_petition_details": [],
+        "person_bankruptcy": {
+            "remark": "Remark: The Bankruptcy adjudication order status may have been discharged. Please conduct Official Assignee Search to confirm the current status.",
+            "cases": [
+                {
+                    "status_group": "OTH",
+                    "defendant_name": "  XXX",
+                    "old_ic": "NA",
+                    "new_ic": "771203-10-1101",
+                    "defendant_address": null,
+                    "case_no": "29-NCC-210-2023 HIGH COURT KUALA LUMPUR",
+                    "notice_date": "06 Mar 2023",
+                    "petition_date": null,
+                    "hearing_date": null,
+                    "adjudication_order_date": null,
+                    "case_settled": "N",
+                    "case_withdrawn": "N",
+                    "amountclaimed": "NA",
+                    "solicitor_code": null,
+                    "solicitor": null,
+                    "solicitor_address": null,
+                    "solicitor_tel": null,
+                    "solicitor_fax": null,
+                    "solicitor_email": null,
+                    "solicitor_ref": null,
+                    "notice_ref": null,
+                    "adjudication_order_ref": null
+                },
+                {
+                    "status_group": "AOD",
+                    "defendant_name": "  XXXX XXXXX KHALIL",
+                    "old_ic": "NA",
+                    "new_ic": "771203-10-1101",
+                    "defendant_address": null,
+                    "case_no": "29-NCC-210-2023 HIGH COURT KUALA LUMPUR",
+                    "notice_date": "06 Mar 2023",
+                    "petition_date": "06 Mar 2023",
+                    "hearing_date": "06 Mar 2023",
+                    "adjudication_order_date": "06 Mar 2023",
+                    "case_settled": "N",
+                    "case_withdrawn": "N",
+                    "amountclaimed": "NA",
+                    "solicitor_code": null,
+                    "solicitor": null,
+                    "solicitor_address": null,
+                    "solicitor_tel": null,
+                    "solicitor_fax": null,
+                    "solicitor_email": null,
+                    "solicitor_ref": null,
+                    "notice_ref": null,
+                    "adjudication_order_ref": null
+                },
+                {
+                    "status_group": "AOD",
+                    "defendant_name": "  XXXX",
+                    "old_ic": "NA",
+                    "new_ic": "771203-10-1101",
+                    "defendant_address": null,
+                    "case_no": "29-NCC-210-2023 HIGH COURT KUALA LUMPUR",
+                    "notice_date": "06 Mar 2023",
+                    "petition_date": "06 Mar 2023",
+                    "hearing_date": "21 Mar 2023",
+                    "adjudication_order_date": "06 Mar 2023",
+                    "case_settled": "N",
+                    "case_withdrawn": "N",
+                    "amountclaimed": "NA",
+                    "solicitor_code": null,
+                    "solicitor": null,
+                    "solicitor_address": null,
+                    "solicitor_tel": null,
+                    "solicitor_fax": null,
+                    "solicitor_email": null,
+                    "solicitor_ref": null,
+                    "notice_ref": null,
+                    "adjudication_order_ref": null
+                },
+                {
+                    "status_group": "AOD",
+                    "defendant_name": "  XXXX XXXXX KHALIL",
+                    "old_ic": "NA",
+                    "new_ic": "771203-10-1101",
+                    "defendant_address": "159  JALAN T\/D 15 TAMAN DESA , 71700, MANTIN, NEGERI SEMBILAN.",
+                    "case_no": "29-NCC-4532-08-2014 HIGH COURT KUALA LUMPUR",
+                    "notice_date": "29 Aug 2016",
+                    "petition_date": null,
+                    "hearing_date": null,
+                    "adjudication_order_date": "12 Nov 2017",
+                    "case_settled": "N",
+                    "case_withdrawn": "N",
+                    "amountclaimed": "NA",
+                    "solicitor_code": "4692",
+                    "solicitor": "AZHAR & WONG",
+                    "solicitor_address": "PENTHOUSE, HERITAGE HOUSE, 33 JLN YAP AH SHAK, LEVEL 16 50300 KUALA LUMPUR",
+                    "solicitor_tel": "03-26986800",
+                    "solicitor_fax": "03-26983740",
+                    "solicitor_email": "azharw@azharwong.com.my",
+                    "solicitor_ref": "RL\/AMFB-LIT\/6935-446\/ADLIAH\/ZH",
+                    "notice_ref": "NEW STRAITS TIMES 10 Nov 2016",
+                    "adjudication_order_ref": null
+                },
+                {
+                    "status_group": "AOD",
+                    "defendant_name": "  XXXX XXXXX KHALIL",
+                    "old_ic": "A1610580",
+                    "new_ic": "771203-10-1101",
+                    "defendant_address": "29 JLN F  KG PANDAN , 55100, KUALA LUMPUR.",
+                    "case_no": "29-NCC-8982-2016 HIGH COURT SELANGOR",
+                    "notice_date": "",
+                    "petition_date": null,
+                    "hearing_date": null,
+                    "adjudication_order_date": "12 Nov 2017",
+                    "case_settled": "N",
+                    "case_withdrawn": "N",
+                    "amountclaimed": "NA",
+                    "solicitor_code": "146",
+                    "solicitor": "YONG & RAKAN-RAKAN",
+                    "solicitor_address": "NO. 12-1 (1st FLOOR)  JALAN TIARA 2D\/KU1  BANDAR BARU KLANG 41150 KELANG, SELANGOR",
+                    "solicitor_tel": "03-33427207\/9",
+                    "solicitor_fax": "03-33414202",
+                    "solicitor_email": "yrr@tm.net.my",
+                    "solicitor_ref": "MBB(LMCKL)AM(BN)\/22828\/2008\/G(3)GTL\/NURUL ",
+                    "notice_ref": "BERITA HARIAN 18 May 2011",
+                    "adjudication_order_ref": "JABATAN INSOLVENSI MALAYSIA (JIM)"
+                }
+            ]
+        }
+    },
+    "trade_bureau": {
+        "trade_bureau_entity_details": {
+            "credit_references": [
+                {
+                    "subject": "XXXXX",
+                    "new_ic": "740324-18-3631",
+                    "creditor_name": "TABUNG KUMPULAN WANG BIASISWA NEGERI SELANGOR",
+                    "creditor_telno": "03-55447634",
+                    "ref_no": "40656\/785",
+                    "status": "NOD",
+                    "debt_type": "LOAN EXTENDED",
+                    "payment_aging": "OVER 180 DAYS",
+                    "remark": "DEFAULTED \/ ACCOUNT TERMINATED",
+                    "status_date": "16  NOV  2011",
+                    "amount": "2,500.00",
+                    "industry": "EDUCATION",
+                    "guarantor_details": [
+                        {
+                            "guarantor_ic": "590828-10-6079",
+                            "guarantor_name": "KOAKEELAN A\/L V KARUPPIAH"
+                        },
+                        {
+                            "guarantor_ic": "771203-10-1101",
+                            "guarantor_name": "XXXX XXXXX KHAL"
+                        },
+                        {
+                            "guarantor_ic": "660607-01-3980",
+                            "guarantor_name": "XXXXXXX XXNTI ABAS"
+                        },
+                        {
+                            "guarantor_ic": "855037",
+                            "guarantor_name": "KAROMECH SDN. BHD."
+                        },
+                        {
+                            "guarantor_ic": "670508-08-5352",
+                            "guarantor_name": "SXXXXX BXXXX RXXXX"
+                        }
+                    ]
+                }
+            ],
+            "tb_payment": {
+                "payment_profile": "",
+                "payment_trend": "",
+                "p2p_fintech": {
+                    "start_year": 2023,
+                    "end_year": 2024,
+                    "months": [
+                        "M",
+                        "A",
+                        "M",
+                        "F",
+                        "J",
+                        "D",
+                        "N",
+                        "O",
+                        "S",
+                        "A",
+                        "J",
+                        "J"
+                    ],
+                    "count_fintect": 0,
+                    "show_note_fintect": 0,
+                    "legend": {
+                        "capacity": null,
+                        "acc_status": null,
+                        "lender_type": null,
+                        "facility": null,
+                        "repayment_term": null,
+                        "collateral_type": null,
+                        "status": null,
+                        "sub_code": null
+                    },
+                    "details": null
+                },
+                "show_note": "yes",
+                "show_note_fintect": "no"
+            }
+        }
+    },
+    "aml_sanction": {
+        "KDN": "02 Sep 2019",
+        "UN": "02 Sep 2019",
+        "aml_sanction_list": [
+            {
+                "No": 1,
+                "ICPP": "771203-10-1101",
+                "IndividualName": "XXXX XXXXX KHALIL",
+                "TraceCase": "KDN",
+                "CompanyName": "",
+                "LastUpdated": "02 Sep 2019",
+                "NameMatched": "MATCHED"
+            },
+            {
+                "No": 2,
+                "ICPP": "771203-10-1101",
+                "IndividualName": "XXXX XXXXX KHALIL",
+                "TraceCase": "UN",
+                "CompanyName": "",
+                "LastUpdated": "02 Sep 2019",
+                "NameMatched": "MATCHED"
+            }
+        ]
+    },
+    "enquiry": {
+        "previous_enquiry": {
+            "finance": [
+                {
+                    "year": 2024,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                },
+                {
+                    "year": 2023,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                }
+            ],
+            "commercial": [
+                {
+                    "year": 2024,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                },
+                {
+                    "year": 2023,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                },
+                {
+                    "year": 2022,
+                    "yearly_count": 0,
+                    "month": [
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "0"
+                    ]
+                }
+            ]
+        }
+    },
+    "end": {
+        "subscriber_name": "CAPSSVB2B",
+        "username": "CAPSSVB2B",
+        "order_date": "2024-05-27",
+        "order_time": "12:47:10",
+        "userid": "CAPSSVB2B1",
+        "order_id": "119402566"
+    }
+}

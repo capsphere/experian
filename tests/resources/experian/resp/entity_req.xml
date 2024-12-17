@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <ccris_identity>
+        <item>
+            <CRefId>1281395</CRefId>
+            <EntityKey>9682904</EntityKey>
+            <EntityId>771203-10-1101</EntityId>
+            <EntityId2>A1610580</EntityId2>
+            <EntityName>XXXX XXXXX KHALIL</EntityName>
+            <EntityDOBDOC>1977-12-03</EntityDOBDOC>
+            <EntityGroupCode>11</EntityGroupCode>
+            <EntityState/>
+            <EntityNationality>MY</EntityNationality>
+            <CcrisNote/>
+        </item>
+    </ccris_identity>
+</xml>
