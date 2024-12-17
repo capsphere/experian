@@ -1,6 +1,6 @@
 {
-    "name": "capsphere/php-core",
-    "description": "Capsphere PHP core package",
+    "name": "capsphere/experian-php-core",
+    "description": "Capsphere Experian PHP core package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
