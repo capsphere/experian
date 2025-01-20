@@ -2,7 +2,6 @@
 
 namespace Capsphere\PhpCore\Domain\Experian\Report;
 
-use Capsphere\PhpCore\Domain\Core\Report;
 use Capsphere\PhpCore\Domain\Experian\Report\Details\AmlSanction;
 use Capsphere\PhpCore\Domain\Experian\Report\Details\BankingInfo;
 use Capsphere\PhpCore\Domain\Experian\Report\Details\CorporateProfile;
@@ -15,7 +14,7 @@ use Capsphere\PhpCore\Domain\Experian\Report\Details\TradeBureau;
 use InvalidArgumentException;
 use SimpleXMLElement;
 
-class CreditReport extends Report
+class CreditReport
 {
     public ?String $reportDate = null;
     public ?Summary $summary = null;
