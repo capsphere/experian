@@ -2,6 +2,7 @@
 
 namespace Capsphere\PhpCore\Domain\Experian\Report;
 
+
 use Capsphere\PhpCore\Domain\Experian\Report\Details\AmlSanction;
 use Capsphere\PhpCore\Domain\Experian\Report\Details\BankingInfo;
 use Capsphere\PhpCore\Domain\Experian\Report\Details\CorporateProfile;
@@ -85,7 +86,6 @@ class CreditReport
     }
 
     public function fromJSON(string $json): self{
-        // TODO implement
         $decoded = json_decode($json, true);
         if (json_last_error() !== JSON_ERROR_NONE) {
             throw new InvalidArgumentException("Invalid JSON: " . json_last_error_msg());
